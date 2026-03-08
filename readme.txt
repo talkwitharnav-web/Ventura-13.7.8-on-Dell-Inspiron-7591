@@ -72,3 +72,5 @@ Disclaimer
 This is a personal build shared for reference. I'm not responsible for bricked laptops, dead SSDs, thermonuclear war, Apple hunting you down, or you getting fired because you spent too much time trying to get macOS working. Do your research, have backups, and I pray you succeed in hackintoshing!
 
 Just click "Code" in the top right corner, and then "Download ZIP" to grab a copy of the EFI!
+
+(There is testing going on to get Sonoma up and running, hopefully won't take too long!)
