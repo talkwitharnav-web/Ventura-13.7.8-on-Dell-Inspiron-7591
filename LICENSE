@@ -2,8 +2,12 @@ ALL RIGHTS RESERVED - VIEW-ONLY SOURCE LICENSE
 
 Copyright (c) 2026 Arnav Agarwal. All rights reserved.
 
-This repository's source code and related materials are made publicly visible
-for reading only. Being able to view them does not grant any right to use them.
+This repository's source code and related materials are made publicly visible for
+reading only. Being able to view them does not grant any right to use them.
+
+BY VIEWING, COPYING, OR OTHERWISE ACCESSING THE SOFTWARE, YOU AGREE TO THE TERMS OF
+THIS LICENSE. IF YOU DO NOT AGREE, STOP ACCESSING THE SOFTWARE NOW AND DELETE ANY
+COPIES YOU HAVE.
 
 1. DEFINITIONS
 
@@ -21,8 +25,8 @@ for that purpose.
 2. LIMITED VIEW PERMISSION
 
 The Copyright Holder grants You a non-exclusive, non-transferable, revocable
-permission to View the Software solely for personal, non-commercial evaluation
-and reference. No other permission is granted.
+permission to View the Software solely for personal, non-commercial evaluation and
+reference. No other permission is granted.
 
 3. RESTRICTIONS
 
@@ -30,93 +34,121 @@ Except as expressly permitted in Section 2, You may not:
 
 (a) use, run, build, deploy, install, or execute the Software;
 
-(b) copy, reproduce, or download the Software, except for transient technical
-    copies made automatically by Your browser or the hosting platform while
-    Viewing;
+(b) copy, reproduce, download, or store the Software, except for transient technical
+    copies made automatically by Your browser or the hosting platform while Viewing;
 
 (c) modify, adapt, translate, or create derivative works of the Software;
 
-(d) distribute, publish, sublicense, sell, rent, lease, lend, or otherwise make
-    the Software available to others, including by hosting or mirroring it;
+(d) distribute, publish, sublicense, sell, rent, lease, lend, or otherwise make the
+    Software available to others, including by hosting, mirroring, or embedding it;
 
 (e) fork, clone, or otherwise create a copy of the repository, other than as the
     hosting platform's standard interface requires for Viewing;
 
 (f) use the Software, or any portion of it, to train, fine-tune, evaluate,
-    benchmark, or otherwise develop any machine learning or artificial
-    intelligence model or system, or to generate code or content for such
-    purposes;
+    benchmark, or otherwise develop any machine learning or artificial intelligence
+    model or system, or to generate code or content for such purposes, and not to
+    collect or scrape the Software for any such use;
 
 (g) remove, alter, or obscure any copyright, attribution, or proprietary notice;
 
-(h) reverse engineer, decompile, or disassemble the Software, except to the
-    extent applicable law expressly prohibits this restriction;
+(h) reverse engineer, decompile, or disassemble the Software, except to the extent
+    applicable law expressly prohibits this restriction;
 
-(i) use the name, logos, or branding of the Copyright Holder or of the Software
-    in any way that suggests endorsement, sponsorship, or affiliation.
+(i) use the name, logos, or branding of the Copyright Holder or of the Software in
+    any way that suggests endorsement, sponsorship, or affiliation; or
 
-4. FEEDBACK
+(j) assist, authorize, or encourage any other person to do any of the foregoing.
+
+4. COPYRIGHT PROTECTION
+
+The Software is protected by copyright under the laws of the United States and
+other countries, and by applicable international treaties. Any use of the Software
+outside the scope of Section 2 is unauthorized and may constitute copyright
+infringement in addition to a breach of this license. The Copyright Holder reserves
+all remedies available under such laws, including injunctive relief, actual damages
+and profits, statutory damages where available, and recovery of attorneys' fees and
+costs where permitted by law.
+
+5. NOTICE AND CURE
+
+If the Copyright Holder notifies You in writing that You have violated this license,
+You must within ten (10) days: (a) cease the violating conduct; (b) delete all copies
+of the Software in Your possession or control, including any fork or clone; and (c)
+provide the Copyright Holder with written confirmation of such deletion. This section
+does not limit any right to seek remedies under Section 4 or Section 13 for a
+violation that is not cured, or for a violation that is willful, repeated, or
+commercial in nature.
+
+6. INDEMNITY
+
+You agree to defend, indemnify, and hold harmless the Copyright Holder from and
+against all claims, losses, damages, liabilities, costs, and expenses (including
+reasonable attorneys' fees) arising out of Your violation of this license or Your
+use of the Software outside the scope of Section 2.
+
+7. FEEDBACK
 
 If You submit comments, suggestions, issues, or other feedback about the Software
 ("Feedback"), You grant the Copyright Holder a perpetual, irrevocable, worldwide,
 royalty-free license to use, copy, modify, and incorporate that Feedback into the
-Software or any other work, without any obligation to You. The Copyright Holder
-is not required to use or respond to any Feedback.
+Software or any other work, without any obligation to You. The Copyright Holder is
+not required to use or respond to any Feedback.
 
-5. THIRD-PARTY MATERIALS
+8. THIRD-PARTY MATERIALS
 
-The Software may include third-party code, data, fonts, images, or other
-materials that are governed by their own licenses or terms. Nothing in this
-license grants any right to those materials, and the rights to them are governed
-solely by their respective licenses or terms. Where this license and such a
-license conflict as to a third-party material, that third-party license controls
-for that material only.
+The Software may include third-party code, data, fonts, images, or other materials
+that are governed by their own licenses or terms. Nothing in this license grants any
+right to those materials, and the rights to them are governed solely by their
+respective licenses or terms. Where this license and such a license conflict as to a
+third-party material, that third-party license controls for that material only.
 
-6. OWNERSHIP
+9. OWNERSHIP
 
-The Software and all intellectual property rights in it remain the sole property
-of the Copyright Holder. No right, title, or interest is transferred to You. No
-license is granted by implication, estoppel, exhaustion, or otherwise, except as
-expressly stated in this license.
+The Software and all intellectual property rights in it remain the sole property of
+the Copyright Holder. No right, title, or interest is transferred to You. No license
+is granted by implication, estoppel, exhaustion, or otherwise, except as expressly
+stated in this license.
 
-7. TERMINATION
+10. TERMINATION
 
 This license and the permission in Section 2 terminate automatically if You breach
 any of its terms. Upon termination You must immediately stop Viewing the Software
-and delete any copies in Your possession or control. Sections 3, 4, 5, 6, 7, 8,
-9, 10, and 12 survive termination.
+and delete any copies in Your possession or control. Sections 3 through 15 survive
+termination to the extent they apply to conduct before termination.
 
-8. NO WARRANTY
+11. NO WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE, TITLE, ACCURACY, AND NON-INFRINGEMENT. THE
-COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE IS FREE OF ERRORS, MALWARE,
-OR OTHER HARMFUL COMPONENTS.
+COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE IS FREE OF ERRORS, MALWARE, OR
+OTHER HARMFUL COMPONENTS.
 
-9. LIMITATION OF LIABILITY
+12. LIMITATION OF LIABILITY
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR
-PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, OR BUSINESS, ARISING OUT OF
-OR RELATED TO THE SOFTWARE OR THIS LICENSE, HOWEVER CAUSED AND UNDER ANY THEORY OF
-LIABILITY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE COPYRIGHT
-HOLDER'S TOTAL AGGREGATE LIABILITY SHALL NOT EXCEED ONE HUNDRED US DOLLARS
-(US $100).
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE TO
+YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
+DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, OR BUSINESS, ARISING OUT OF OR RELATED TO
+THE SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+THE COPYRIGHT HOLDER'S TOTAL AGGREGATE LIABILITY TO YOU SHALL NOT EXCEED ONE HUNDRED
+US DOLLARS (US $100). THIS SECTION DOES NOT LIMIT YOUR LIABILITY TO THE COPYRIGHT
+HOLDER UNDER SECTIONS 3, 4, 5, OR 6, OR ANY OTHER LIABILITY THAT CANNOT BE LIMITED
+BY LAW.
 
-10. REMEDIES
+13. REMEDIES
 
-You acknowledge that unauthorized use of the Software may cause irreparable harm
-for which monetary damages would be inadequate. The Copyright Holder may seek
-injunctive or other equitable relief for any actual or threatened breach of this
-license, in addition to any other remedies available at law or in equity.
+You acknowledge that unauthorized use of the Software may cause irreparable harm for
+which monetary damages would be inadequate. The Copyright Holder may seek injunctive
+or other equitable relief for any actual or threatened breach of this license, in
+addition to any other remedies available at law or in equity.
 
-11. NO TRADEMARK RIGHTS
+14. NO TRADEMARK RIGHTS
 
 This license does not grant any right to use the names, trademarks, service marks,
 or logos of the Copyright Holder.
 
-12. GENERAL
+15. GENERAL
 
 (a) Entire agreement. This license is the entire agreement between You and the
     Copyright Holder regarding the Software and supersedes any prior agreement on
@@ -126,11 +158,14 @@ or logos of the Copyright Holder.
     provision will be enforced to the maximum extent permissible and the remaining
     provisions will remain in full force and effect.
 
-(c) No waiver. Failure to enforce any provision is not a waiver of that provision
-    or of any other provision.
+(c) No waiver. Failure to enforce any provision is not a waiver of that provision or
+    of any other provision.
 
-(d) Changes. The Copyright Holder may update this license. The version in effect
+(d) Assignment. The Copyright Holder may assign this license, in whole or in part,
+    without Your consent. You may not assign it.
+
+(e) Changes. The Copyright Holder may update this license. The version in effect
     when You access the Software governs that access.
 
-(e) Questions. Direct any questions about this license to the Copyright Holder
+(f) Questions. Direct any questions about this license to the Copyright Holder
     through the GitHub profile at https://github.com/talkwitharnav-web.
