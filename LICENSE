@@ -1,10 +1,136 @@
-All Rights Reserved
+ALL RIGHTS RESERVED - VIEW-ONLY SOURCE LICENSE
 
 Copyright (c) 2026 Arnav Agarwal. All rights reserved.
 
-This software and its source code are made publicly viewable for reading only.
-No permission is granted to use, copy, modify, merge, publish, distribute,
-sublicense, or sell any part of it, in whole or in part, without prior written
-permission from the copyright holder.
+This repository's source code and related materials are made publicly visible
+for reading only. Being able to view them does not grant any right to use them.
 
-Being able to view the source code does not grant any license to use it.
+1. DEFINITIONS
+
+"Software" means the source code, documentation, and all other files in this
+repository, including any copies or portions of them.
+
+"You" means any individual or entity that accesses the Software.
+
+"Viewing" means reading the Software through a web browser or the standard
+interface of the hosting platform, or reading a copy you lawfully obtained solely
+for that purpose.
+
+"Copyright Holder" means Arnav Agarwal.
+
+2. LIMITED VIEW PERMISSION
+
+The Copyright Holder grants You a non-exclusive, non-transferable, revocable
+permission to View the Software solely for personal, non-commercial evaluation
+and reference. No other permission is granted.
+
+3. RESTRICTIONS
+
+Except as expressly permitted in Section 2, You may not:
+
+(a) use, run, build, deploy, install, or execute the Software;
+
+(b) copy, reproduce, or download the Software, except for transient technical
+    copies made automatically by Your browser or the hosting platform while
+    Viewing;
+
+(c) modify, adapt, translate, or create derivative works of the Software;
+
+(d) distribute, publish, sublicense, sell, rent, lease, lend, or otherwise make
+    the Software available to others, including by hosting or mirroring it;
+
+(e) fork, clone, or otherwise create a copy of the repository, other than as the
+    hosting platform's standard interface requires for Viewing;
+
+(f) use the Software, or any portion of it, to train, fine-tune, evaluate,
+    benchmark, or otherwise develop any machine learning or artificial
+    intelligence model or system, or to generate code or content for such
+    purposes;
+
+(g) remove, alter, or obscure any copyright, attribution, or proprietary notice;
+
+(h) reverse engineer, decompile, or disassemble the Software, except to the
+    extent applicable law expressly prohibits this restriction;
+
+(i) use the name, logos, or branding of the Copyright Holder or of the Software
+    in any way that suggests endorsement, sponsorship, or affiliation.
+
+4. FEEDBACK
+
+If You submit comments, suggestions, issues, or other feedback about the Software
+("Feedback"), You grant the Copyright Holder a perpetual, irrevocable, worldwide,
+royalty-free license to use, copy, modify, and incorporate that Feedback into the
+Software or any other work, without any obligation to You. The Copyright Holder
+is not required to use or respond to any Feedback.
+
+5. THIRD-PARTY MATERIALS
+
+The Software may include third-party code, data, fonts, images, or other
+materials that are governed by their own licenses or terms. Nothing in this
+license grants any right to those materials, and the rights to them are governed
+solely by their respective licenses or terms. Where this license and such a
+license conflict as to a third-party material, that third-party license controls
+for that material only.
+
+6. OWNERSHIP
+
+The Software and all intellectual property rights in it remain the sole property
+of the Copyright Holder. No right, title, or interest is transferred to You. No
+license is granted by implication, estoppel, exhaustion, or otherwise, except as
+expressly stated in this license.
+
+7. TERMINATION
+
+This license and the permission in Section 2 terminate automatically if You breach
+any of its terms. Upon termination You must immediately stop Viewing the Software
+and delete any copies in Your possession or control. Sections 3, 4, 5, 6, 7, 8,
+9, 10, and 12 survive termination.
+
+8. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, ACCURACY, AND NON-INFRINGEMENT. THE
+COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE IS FREE OF ERRORS, MALWARE,
+OR OTHER HARMFUL COMPONENTS.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR
+PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, OR BUSINESS, ARISING OUT OF
+OR RELATED TO THE SOFTWARE OR THIS LICENSE, HOWEVER CAUSED AND UNDER ANY THEORY OF
+LIABILITY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE COPYRIGHT
+HOLDER'S TOTAL AGGREGATE LIABILITY SHALL NOT EXCEED ONE HUNDRED US DOLLARS
+(US $100).
+
+10. REMEDIES
+
+You acknowledge that unauthorized use of the Software may cause irreparable harm
+for which monetary damages would be inadequate. The Copyright Holder may seek
+injunctive or other equitable relief for any actual or threatened breach of this
+license, in addition to any other remedies available at law or in equity.
+
+11. NO TRADEMARK RIGHTS
+
+This license does not grant any right to use the names, trademarks, service marks,
+or logos of the Copyright Holder.
+
+12. GENERAL
+
+(a) Entire agreement. This license is the entire agreement between You and the
+    Copyright Holder regarding the Software and supersedes any prior agreement on
+    that subject.
+
+(b) Severability. If any provision of this license is held unenforceable, that
+    provision will be enforced to the maximum extent permissible and the remaining
+    provisions will remain in full force and effect.
+
+(c) No waiver. Failure to enforce any provision is not a waiver of that provision
+    or of any other provision.
+
+(d) Changes. The Copyright Holder may update this license. The version in effect
+    when You access the Software governs that access.
+
+(e) Questions. Direct any questions about this license to the Copyright Holder
+    through the GitHub profile at https://github.com/talkwitharnav-web.
